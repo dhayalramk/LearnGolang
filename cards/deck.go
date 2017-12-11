@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// create a new type of deck
+// create a new type of 'deck'
 // which is a slice of string
 
 type deck []string
